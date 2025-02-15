@@ -21,11 +21,14 @@ You can view the live demo of my website here:
 
 ## Resume
 
-### Elias Chv - Resume
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/EliasChv/EliasChv.github.io/main/Elias%20Chavelaz%20Engineering%20Resum%C3%A9.pdf&embedded=true" width="100%" height="600px"></iframe>
 
-<iframe src="Elias Chavelaz Engineering Resumé" width="100%" height="600px"></iframe>
+You can view my resume directly above, which outlines my skills, education, and professional experience.
 
-You can view my resume directly above. It highlights my professional background, skills, and work experience.
+Or download my **Engineering Resumé** here:
+
+[**Elias Chavelaz Engineering Resumé (PDF)**](https://raw.githubusercontent.com/EliasChv/EliasChv.github.io/main/Elias%20Chavelaz%20Engineering%20Resum%C3%A9.pdf)
+
 
 ## Contact Information
 
