@@ -34,13 +34,13 @@ Or download my **Engineering Resumé** here:
 
 Feel free to reach out to me via the following methods:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Phone**: +123 456 7890
-- **Location**: City, Country (optional)
+- **Email**: [echavela@nd.edu]
+- **Location**: Los Angeles, California
 
 ## LinkedIn Profile
 
 You can connect with me on LinkedIn to stay updated on my work or simply network:
 
-- [**LinkedIn Profile**](https://www.linkedin.com/in/eliaschv/)  
-(*Replace this with your actual LinkedIn URL*)
+- [**LinkedIn Profile**](https://www.linkedin.com/in/elias-chavelaz/)
+
+
