@@ -10,7 +10,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## Description
 
-Welcome to my personal portfolio website! Here, I share my projects, skills, and web development journey. I specialize in **front-end development** using **HTML**, **CSS**, **JavaScript**, and **React**, but also have experience in backend technologies. Feel free to explore the site and get in touch with me!
+Welcome to my personal portfolio website! Here, I share my projects, skills, and web development journey. I specialize in **cybersecurity** using **SQL**, **C++**, **Python**, and **SIEM Tools**, but also have experience in backend technologies. Feel free to explore the site and get in touch with me!
 
 ## Resume
 
@@ -18,9 +18,9 @@ Welcome to my personal portfolio website! Here, I share my projects, skills, and
 
 You can view my resume directly above, which outlines my skills, education, and professional experience.
 
-Or download my **Engineering Resumé** here:
+Or download my **Resumé** here:
 
-[**Elias Chavelaz Engineering Resumé (PDF)**](https://raw.githubusercontent.com/EliasChv/EliasChv.github.io/main/Elias%20Chavelaz%20Engineering%20Resum%C3%A9.pdf)
+[**Elias Chavelaz Resumé (PDF)**](https://raw.githubusercontent.com/EliasChv/EliasChv.github.io/main/Elias%20Chavelaz%20Engineering%20Resum%C3%A9.pdf)
 
 
 ## Contact Information
