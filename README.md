@@ -6,7 +6,6 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - [Description](#description)
 - [Resume](#resume)
 - [Contact Information](#contact-information)
-- [Outside Profiles](#outside-profiles)
 
 ## Description
 
@@ -28,17 +27,11 @@ Or download my **Resumé** here:
 Feel free to reach out to me via the following methods:
 
 - **Email**: [echavela@nd.edu]
-- **Location**: Los Angeles, California
 
-## Outside Profiles
-
-You can connect with me on LinkedIn to stay updated on my work or simply network:
 - [**LinkedIn Profile**](https://www.linkedin.com/in/elias-chavelaz/)
 
-Follow my Handshake proflie to message me:
 - [**Handshake Profile**](https://app.joinhandshake.com/profiles/tuuv6n)
 
-View my Wellfound proflie to learn about my career interest:
 - [**Wellfound Profile**](https://wellfound.com/u/elias-chavelaz)
 
 
