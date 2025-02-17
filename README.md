@@ -1,23 +1,16 @@
-# My Personal Portfolio Website
+# Personal Portfolio Website
 
 This is my personal portfolio website showcasing my projects, skills, and experience as a web developer. You can explore my projects, learn more about my professional journey, and connect with me through the contact information provided below.
 
 ## Table of Contents
 - [Description](#description)
-- [Demo](#demo)
 - [Resume](#resume)
 - [Contact Information](#contact-information)
-- [LinkedIn Profile](#linkedin-profile)
+- [Outside Profiles](#outside-profiles)
 
 ## Description
 
 Welcome to my personal portfolio website! Here, I share my projects, skills, and web development journey. I specialize in **front-end development** using **HTML**, **CSS**, **JavaScript**, and **React**, but also have experience in backend technologies. Feel free to explore the site and get in touch with me!
-
-## Demo
-
-You can view the live demo of my website here:  
-[**Live Demo**](https://eliaschv.github.io/)  
-(*Replace with your actual GitHub Pages URL if different*)
 
 ## Resume
 
@@ -37,10 +30,15 @@ Feel free to reach out to me via the following methods:
 - **Email**: [echavela@nd.edu]
 - **Location**: Los Angeles, California
 
-## LinkedIn Profile
+## Outside Profiles
 
 You can connect with me on LinkedIn to stay updated on my work or simply network:
-
 - [**LinkedIn Profile**](https://www.linkedin.com/in/elias-chavelaz/)
+
+Follow my Handshake proflie to message me:
+- [**Handshake Profile**](https://app.joinhandshake.com/profiles/tuuv6n)
+
+View my Wellfound proflie to learn about my career interest:
+- [**Wellfound Profile**](https://wellfound.com/u/elias-chavelaz)
 
 
